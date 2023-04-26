@@ -1,0 +1,3 @@
+/home/gj/基于VS Code和CMake的c或c++开发/Class_7/build/CMakeFiles/rebuild_cache.dir
+/home/gj/基于VS Code和CMake的c或c++开发/Class_7/build/CMakeFiles/edit_cache.dir
+/home/gj/基于VS Code和CMake的c或c++开发/Class_7/build/CMakeFiles/my_cmake_exe.dir
